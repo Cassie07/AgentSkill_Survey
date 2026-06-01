@@ -1,4 +1,4 @@
-# A Survey of Agent Skill Evolution
+# Agent Skill Evaluation and Evolution: Frameworks and Benchmarks
 
 This repository accompanies our survey on the lifecycle of **agent skills** for LLM agents — spanning skill **creation & usage**, **evolution**, and **evaluation**. Below we provide an overview figure and curated reference tables for the works discussed in the survey.
 
