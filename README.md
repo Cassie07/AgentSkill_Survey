@@ -10,7 +10,7 @@ This repository accompanies our survey on the lifecycle of **agent skills** for 
 
 ---
 
-## Table 1 — Skill Creation, Usage & Evolution
+## Skill Creation, Usage & Evolution
 
 This table covers the works discussed in the *skill definition & creation*, *skill usage* (retrieval, routing, management), and *skill evolution* sections.
 
@@ -46,7 +46,7 @@ This table covers the works discussed in the *skill definition & creation*, *ski
 
 ---
 
-## Table 2 — Skill-Centric Evaluation & Benchmarks
+## Skill-Centric Evaluation & Benchmarks
 
 This table covers the benchmarks discussed in the *skill-centric evaluation and benchmarks* section.
 
