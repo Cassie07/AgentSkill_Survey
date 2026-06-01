@@ -16,7 +16,7 @@ This table covers the works discussed in the *skill definition & creation*, *ski
 
 | Work | Reference | Category | Year |
 |------|-----------|----------|------|
-| Anthropic Agent Skills (Skill Creator) | [Link](https://github.com/anthropics/skills) | Creation — Automatic Creation | 2025 |
+| Anthropic Skill Creator | [Link](https://github.com/anthropics/skills) | Creation — Automatic Creation | 2025 |
 | Voyager | [Link](https://arxiv.org/abs/2305.16291) | Creation — Automatic Creation | 2023 |
 | SAGE | [Link](https://arxiv.org/abs/2512.17102) | Creation — RL-based Creation | 2025 |
 | ARISE | [Link](https://arxiv.org/abs/2603.16060) | Creation — RL-based Creation | 2026 |
@@ -24,7 +24,7 @@ This table covers the works discussed in the *skill definition & creation*, *ski
 | SkillFlow | [Link](https://arxiv.org/abs/2504.06188) | Usage — Retrieval | 2025 |
 | SkillOrchestra | [Link](https://arxiv.org/abs/2602.19672) | Usage — Routing | 2026 |
 | AgentSkillOS | [Link](https://arxiv.org/abs/2603.02176) | Usage — Management / Orchestration | 2026 |
-| SSL (Scheduling-Structural-Logical) | [Link](https://arxiv.org/abs/2604.24026) | Usage — Management | 2026 |
+| SSL | [Link](https://arxiv.org/abs/2604.24026) | Usage — Management | 2026 |
 | SkillForge | [Link](https://arxiv.org/abs/2604.08618) | Evolution — Execution Feedback | 2026 |
 | CoEvoSkills | [Link](https://arxiv.org/abs/2604.01687) | Evolution — Execution Feedback | 2026 |
 | EmbodiSkill | [Link](https://arxiv.org/abs/2605.10332) | Evolution — Execution Feedback | 2026 |
