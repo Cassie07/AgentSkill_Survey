@@ -3,7 +3,7 @@
 This repository accompanies our survey on the lifecycle of **agent skills** for LLM agents — spanning skill **creation & usage**, **evolution**, and **evaluation**. Below we provide an overview figure and curated reference tables for the works discussed in the survey.
 
 <p align="center">
-  <img src="assets/Fig1_overview.png" alt="Overview of agent skill creation/usage, evolution, and evaluation" width="100%">
+  <img src="Figures/Fig1_overview.png" alt="Overview of agent skill creation/usage, evolution, and evaluation" width="100%">
 </p>
 
 > We map the landscape of agent skill evolution strategies (§3) through comparative analysis and design recommendations. We offer evaluation insights (§4) through structural gaps and benchmark limitations, and open challenges (§5) for robust real-world skill deployment.
