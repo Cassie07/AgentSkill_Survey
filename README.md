@@ -67,6 +67,56 @@ This table covers the benchmarks discussed in the *skill-centric evaluation and 
 
 ---
 
+## Table 3 — General-Domain Evaluation Benchmarks
+
+General-domain benchmarks that were not designed for skill evaluation but are still applicable to assessing agent skills, grouped by task category.
+
+| Work | Reference | Category | Year |
+|------|-----------|----------|------|
+| ALFWorld | [Link](https://arxiv.org/abs/2010.03768) | Interactive Agent Environments | 2020 |
+| WebShop | [Link](https://arxiv.org/abs/2207.01206) | Interactive Agent Environments | 2022 |
+| ScienceWorld | [Link](https://arxiv.org/abs/2203.07540) | Interactive Agent Environments | 2022 |
+| WebArena | [Link](https://arxiv.org/abs/2307.13854) | Interactive Agent Environments | 2024 |
+| AgentBench | [Link](https://arxiv.org/abs/2308.03688) | Interactive Agent Environments | 2024 |
+| AppWorld | [Link](https://arxiv.org/abs/2407.18901) | Interactive Agent Environments | 2024 |
+| Terminal-Bench | [Link](https://arxiv.org/abs/2601.11868) | Code Generation & Software Engineering | 2026 |
+| HumanEval | [Link](https://arxiv.org/abs/2107.03374) | Code Generation & Software Engineering | 2021 |
+| MBPP | [Link](https://arxiv.org/abs/2108.07732) | Code Generation & Software Engineering | 2021 |
+| EffiBench-X | [Link](https://arxiv.org/abs/2505.13004) | Code Generation & Software Engineering | 2026 |
+| PIE dataset | [Link](https://arxiv.org/abs/2302.07867) | Code Generation & Software Engineering | 2023 |
+| AMC / AIME | [Link](https://artofproblemsolving.com/wiki/index.php/AIME_Problems_and_Solutions) | Mathematical Reasoning | n.d. |
+| Omni-MATH | [Link](https://arxiv.org/abs/2410.07985) | Mathematical Reasoning | 2025 |
+| DeepScaleR | [Link](https://github.com/agentica-project/rllm) | Mathematical Reasoning | 2025 |
+| Natural Questions (NQ) | [Link](https://aclanthology.org/Q19-1026/) | Question Answering & Knowledge-Intensive | 2019 |
+| TriviaQA | [Link](https://arxiv.org/abs/1705.03551) | Question Answering & Knowledge-Intensive | 2017 |
+| PopQA | [Link](https://arxiv.org/abs/2212.10511) | Question Answering & Knowledge-Intensive | 2023 |
+| HotpotQA | [Link](https://arxiv.org/abs/1809.09600) | Question Answering & Knowledge-Intensive | 2018 |
+| 2WikiMultiHopQA | [Link](https://arxiv.org/abs/2011.01060) | Question Answering & Knowledge-Intensive | 2020 |
+| MuSiQue | [Link](https://arxiv.org/abs/2108.00573) | Question Answering & Knowledge-Intensive | 2022 |
+| Bamboogle | [Link](https://arxiv.org/abs/2210.03350) | Question Answering & Knowledge-Intensive | 2023 |
+| WikiTableQuestions | [Link](https://arxiv.org/abs/1508.00305) | Question Answering & Knowledge-Intensive | 2015 |
+| GAIA | [Link](https://arxiv.org/abs/2311.12983) | Question Answering & Knowledge-Intensive | 2024 |
+| HLE (Humanity's Last Exam) | [Link](https://arxiv.org/abs/2501.14249) | Question Answering & Knowledge-Intensive | 2025 |
+| MMLU | [Link](https://arxiv.org/abs/2009.03300) | Knowledge, Language & Instruction-Following | 2020 |
+| AlpacaEval | [Link](https://github.com/tatsu-lab/alpaca_eval) | Knowledge, Language & Instruction-Following | 2023 |
+| MT-Bench | [Link](https://arxiv.org/abs/2306.05685) | Knowledge, Language & Instruction-Following | 2023 |
+| WildBench | [Link](https://arxiv.org/abs/2406.04770) | Knowledge, Language & Instruction-Following | 2025 |
+| LoCoMo | [Link](https://arxiv.org/abs/2402.17753) | Memory & Conversational | 2024 |
+| LongMemEval | [Link](https://arxiv.org/abs/2410.10813) | Memory & Conversational | 2024 |
+| StuLife | [Link](https://arxiv.org/abs/2508.19005) | Memory & Conversational | 2025 |
+| VisualToolBench | [Link](https://arxiv.org/abs/2510.12712) | Multimodal & Tool-Use | 2025 |
+| TIR-Bench | [Link](https://arxiv.org/abs/2511.01833) | Multimodal & Tool-Use | 2025 |
+| MMSearch-Plus | [Link](https://arxiv.org/abs/2508.21475) | Multimodal & Tool-Use | 2025 |
+| MMBrowseComp | [Link](https://arxiv.org/abs/2508.13186) | Multimodal & Tool-Use | 2025 |
+| AgentVista | [Link](https://arxiv.org/abs/2602.23166) | Multimodal & Tool-Use | 2026 |
+| SpreadsheetBench | [Link](https://arxiv.org/abs/2406.14991) | Multimodal & Tool-Use | 2024 |
+| BFCL-v3 | [Link](https://arxiv.org/abs/2305.15334) | Multimodal & Tool-Use | 2024 |
+| τ²-Bench | [Link](https://arxiv.org/abs/2506.07982) | Multimodal & Tool-Use | 2025 |
+| M³-Bench | [Link](https://arxiv.org/abs/2511.17729) | Multimodal & Tool-Use | 2025 |
+| MineDojo / Minecraft | [Link](https://arxiv.org/abs/2206.08853) | Embodied / Open-Ended | 2022 |
+
+---
+
 ## Citation
 
 If you find this survey useful, please consider citing it (BibTeX to be added upon release).
