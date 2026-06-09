@@ -1,6 +1,9 @@
 # Agent Skill Evaluation and Evolution: Frameworks and Benchmarks
 
-This repository accompanies our survey on the lifecycle of **agent skills** for LLM agents — spanning skill **creation & usage**, **evolution**, and **evaluation**. Below we provide an overview figure and curated reference tables for the works discussed in the survey.
+The growth of agent skills has transformed how agentic systems are built, evaluated, and deployed. As skill libraries continue to scale, rigorous evaluation becomes critical to ensuring their utility, quality, and safety in real-world applications. Consequently, the field is undergoing an emerging paradigm shift from isolated skill creation to automated, evaluation-driven skill evolution. In this survey, we systematically examine the landscape of skill evolution and evaluation beyond foundational skill creation. We categorize evolution into four distinct paradigms, spanning execution feedback, trajectory distillation, compression, and reinforcement learning, showing how each element contributes to improving skill utility and reliability. We also provide an analysis of six skill-centric benchmark categories, identifying structural gaps in benchmark coverage, trade-offs, and metric richness to advance skill research. Finally, we identify open directions for building skill ecosystems that are generalizable, efficient, and verifiably safe.
+
+This repository accompanies our survey on the lifecycle of **agent skills** for LLM agents — spanning skill **creation & usage**, **evolution**, and **evaluation**. Below, we provide an overview figure and curated reference tables for the works discussed in the survey.
+
 
 <p align="center">
   <img src="https://github.com/Cassie07/AgentSkill_Survey/blob/main/Figure/Fig1_overview.png" alt="Overview of agent skill creation/usage, evolution, and evaluation" width="100%">
