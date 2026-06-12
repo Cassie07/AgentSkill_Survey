@@ -124,5 +124,15 @@ General-domain benchmarks that were not designed for skill evaluation but are st
 ---
 
 ## Citation
-
-If you find this survey useful, please consider citing it (BibTeX to be added upon release).
+```
+@misc{ding2026skillsurvey,
+  title         = {Agent Skill Evaluation and Evolution: Frameworks and Benchmarks},
+  author        = {Ding, Kexin and Zhou, Yang and Jin, Can and Tong, Feng and
+                   Zhou, Mu and Metaxas, Dimitris N.},
+  year          = {2026},
+  eprint        = {2606.11435},
+  archivePrefix = {arXiv},
+  primaryClass  = {cs.CL},
+  url           = {https://arxiv.org/abs/2606.11435}
+}
+```
