@@ -90,7 +90,7 @@ General-domain benchmarks that were not designed for skill evaluation but are st
 | MBPP | [Link](https://arxiv.org/abs/2108.07732) | Code Generation & Software Engineering | 2021 |
 | EffiBench-X | [Link](https://arxiv.org/abs/2505.13004) | Code Generation & Software Engineering | 2026 |
 | PIE dataset | [Link](https://arxiv.org/abs/2302.07867) | Code Generation & Software Engineering | 2023 |
-| AMC / AIME | [Link](https://artofproblemsolving.com/wiki/index.php/AIME_Problems_and_Solutions) | Mathematical Reasoning | n.d. |
+| AMC / AIME | [Link](https://artofproblemsolving.com/wiki/index.php/AIME_Problems_and_Solutions) | Mathematical Reasoning | 2026 |
 | Omni-MATH | [Link](https://arxiv.org/abs/2410.07985) | Mathematical Reasoning | 2025 |
 | DeepScaleR | [Link](https://github.com/agentica-project/rllm) | Mathematical Reasoning | 2025 |
 | Natural Questions (NQ) | [Link](https://aclanthology.org/Q19-1026/) | Question Answering & Knowledge-Intensive | 2019 |
