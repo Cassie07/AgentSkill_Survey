@@ -26,33 +26,33 @@ This table covers the works discussed in the *skill definition & creation*, *ski
 
 | Work | Reference | Category | Year |
 |------|-----------|----------|------|
-| Anthropic Skill Creator | [Link](https://github.com/anthropics/skills) | Creation — Automatic Creation | 2025 |
-| Voyager | [Link](https://arxiv.org/abs/2305.16291) | Creation — Automatic Creation | 2023 |
-| SAGE | [Link](https://arxiv.org/abs/2512.17102) | Creation — RL-based Creation | 2025 |
-| ARISE | [Link](https://arxiv.org/abs/2603.16060) | Creation — RL-based Creation | 2026 |
-| SkillRouter | [Link](https://arxiv.org/abs/2603.22455) | Usage — Retrieval / Routing | 2026 |
-| SkillFlow | [Link](https://arxiv.org/abs/2504.06188) | Usage — Retrieval | 2025 |
-| SkillOrchestra | [Link](https://arxiv.org/abs/2602.19672) | Usage — Routing | 2026 |
-| AgentSkillOS | [Link](https://arxiv.org/abs/2603.02176) | Usage — Management / Orchestration | 2026 |
-| SSL | [Link](https://arxiv.org/abs/2604.24026) | Usage — Management | 2026 |
-| SkillForge | [Link](https://arxiv.org/abs/2604.08618) | Evolution — Execution Feedback | 2026 |
-| CoEvoSkills | [Link](https://arxiv.org/abs/2604.01687) | Evolution — Execution Feedback | 2026 |
-| EmbodiSkill | [Link](https://arxiv.org/abs/2605.10332) | Evolution — Execution Feedback | 2026 |
-| Skills-Coach | [Link](https://arxiv.org/abs/2604.27488) | Evolution — Execution Feedback | 2026 |
-| Ctx2Skill | [Link](https://arxiv.org/abs/2604.27660) | Evolution — Execution Feedback | 2026 |
-| AutoSkill | [Link](https://arxiv.org/abs/2603.01145) | Evolution — Execution Feedback | 2026 |
-| SkillClaw | [Link](https://arxiv.org/abs/2604.08377) | Evolution — Execution Feedback | 2026 |
-| SPARK | [Link](https://arxiv.org/abs/2605.09192) | Evolution — Trajectory Distillation | 2026 |
-| Trace2Skill | [Link](https://arxiv.org/abs/2603.25158) | Evolution — Trajectory Distillation | 2026 |
-| Memento-Skills | [Link](https://arxiv.org/abs/2603.18743) | Evolution — Trajectory Distillation | 2026 |
-| XSkill | [Link](https://arxiv.org/abs/2603.12056) | Evolution — Trajectory Distillation | 2026 |
-| SkillNet | [Link](https://arxiv.org/abs/2603.04448) | Evolution — Compression & Augmentation | 2026 |
-| SkillX | [Link](https://arxiv.org/abs/2604.04804) | Evolution — Compression & Augmentation | 2026 |
-| SkillFoundry | [Link](https://arxiv.org/abs/2604.03964) | Evolution — Compression & Augmentation | 2026 |
-| SkillReducer | [Link](https://arxiv.org/abs/2603.29919) | Evolution — Compression & Augmentation | 2026 |
-| D2Skill | [Link](https://arxiv.org/abs/2603.28716) | Evolution — Reinforcement Learning | 2026 |
-| SkillRL | [Link](https://arxiv.org/abs/2602.08234) | Evolution — Reinforcement Learning | 2026 |
-| Skill1 | [Link](https://arxiv.org/abs/2605.06130) | Evolution — Reinforcement Learning | 2026 |
+| Anthropic Skill Creator | [Link](https://github.com/anthropics/skills) | 🤖 Creation — Automatic Creation | 2025 |
+| Voyager | [Link](https://arxiv.org/abs/2305.16291) | 🤖 Creation — Automatic Creation | 2023 |
+| SAGE | [Link](https://arxiv.org/abs/2512.17102) | 🎯 Creation — RL-based Creation | 2025 |
+| ARISE | [Link](https://arxiv.org/abs/2603.16060) | 🎯 Creation — RL-based Creation | 2026 |
+| SkillRouter | [Link](https://arxiv.org/abs/2603.22455) | 🔍 Usage — Retrieval / Routing | 2026 |
+| SkillFlow | [Link](https://arxiv.org/abs/2504.06188) | 🔍 Usage — Retrieval | 2025 |
+| SkillOrchestra | [Link](https://arxiv.org/abs/2602.19672) | 🔍 Usage — Routing | 2026 |
+| AgentSkillOS | [Link](https://arxiv.org/abs/2603.02176) | 🗂️ Usage — Management / Orchestration | 2026 |
+| SSL | [Link](https://arxiv.org/abs/2604.24026) | 🗂️ Usage — Management | 2026 |
+| SkillForge | [Link](https://arxiv.org/abs/2604.08618) | 🔄 Evolution — Execution Feedback | 2026 |
+| CoEvoSkills | [Link](https://arxiv.org/abs/2604.01687) | 🔄 Evolution — Execution Feedback | 2026 |
+| EmbodiSkill | [Link](https://arxiv.org/abs/2605.10332) | 🔄 Evolution — Execution Feedback | 2026 |
+| Skills-Coach | [Link](https://arxiv.org/abs/2604.27488) | 🔄 Evolution — Execution Feedback | 2026 |
+| Ctx2Skill | [Link](https://arxiv.org/abs/2604.27660) | 🔄 Evolution — Execution Feedback | 2026 |
+| AutoSkill | [Link](https://arxiv.org/abs/2603.01145) | 🔄 Evolution — Execution Feedback | 2026 |
+| SkillClaw | [Link](https://arxiv.org/abs/2604.08377) | 🔄 Evolution — Execution Feedback | 2026 |
+| SPARK | [Link](https://arxiv.org/abs/2605.09192) | 🧪 Evolution — Trajectory Distillation | 2026 |
+| Trace2Skill | [Link](https://arxiv.org/abs/2603.25158) | 🧪 Evolution — Trajectory Distillation | 2026 |
+| Memento-Skills | [Link](https://arxiv.org/abs/2603.18743) | 🧪 Evolution — Trajectory Distillation | 2026 |
+| XSkill | [Link](https://arxiv.org/abs/2603.12056) | 🧪 Evolution — Trajectory Distillation | 2026 |
+| SkillNet | [Link](https://arxiv.org/abs/2603.04448) | 🗜️ Evolution — Compression & Augmentation | 2026 |
+| SkillX | [Link](https://arxiv.org/abs/2604.04804) | 🗜️ Evolution — Compression & Augmentation | 2026 |
+| SkillFoundry | [Link](https://arxiv.org/abs/2604.03964) | 🗜️ Evolution — Compression & Augmentation | 2026 |
+| SkillReducer | [Link](https://arxiv.org/abs/2603.29919) | 🗜️ Evolution — Compression & Augmentation | 2026 |
+| D2Skill | [Link](https://arxiv.org/abs/2603.28716) | 🏋️ Evolution — Reinforcement Learning | 2026 |
+| SkillRL | [Link](https://arxiv.org/abs/2602.08234) | 🏋️ Evolution — Reinforcement Learning | 2026 |
+| Skill1 | [Link](https://arxiv.org/abs/2605.06130) | 🏋️ Evolution — Reinforcement Learning | 2026 |
 
 ---
 
