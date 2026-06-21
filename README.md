@@ -62,18 +62,18 @@ This table covers the benchmarks discussed in the *skill-centric evaluation and 
 
 | Work | Reference | Category | Year |
 |------|-----------|----------|------|
-| SkillsBench | [Link](https://arxiv.org/abs/2602.12670) | Skill Utility | 2026 |
-| SkillCraft | [Link](https://arxiv.org/abs/2603.00718) | Skill Utility | 2026 |
-| SkillLearnBench | [Link](https://arxiv.org/abs/2604.20087) | Skill Generation | 2026 |
-| SkillRouter | [Link](https://arxiv.org/abs/2603.22455) | Retrieval & Routing | 2026 |
-| SRA-Bench | [Link](https://arxiv.org/abs/2604.24594) | Retrieval & Routing | 2026 |
-| AgentSkillOS Benchmark | [Link](https://arxiv.org/abs/2603.02176) | Retrieval & Routing | 2026 |
-| SkillTester | [Link](https://arxiv.org/abs/2603.28815) | Safety & Security | 2026 |
-| SkillGuardBench | [Link](https://arxiv.org/abs/2604.25109) | Safety & Security | 2026 |
-| SKILL-INJECT | [Link](https://arxiv.org/abs/2602.20156) | Safety & Security | 2026 |
-| SWE-Skills-Bench | [Link](https://arxiv.org/abs/2603.15401) | Software Engineering | 2026 |
-| WildClawBench | [Link](https://arxiv.org/abs/2605.10912) | Real-world Environment | 2026 |
-| SkillForge | [Link](https://arxiv.org/abs/2604.08618) | Real-world Environment | 2026 |
+| SkillsBench | [Link](https://arxiv.org/abs/2602.12670) | ⚡ Skill Utility | 2026 |
+| SkillCraft | [Link](https://arxiv.org/abs/2603.00718) | ⚡ Skill Utility | 2026 |
+| SkillLearnBench | [Link](https://arxiv.org/abs/2604.20087) | ✨ Skill Generation | 2026 |
+| SkillRouter | [Link](https://arxiv.org/abs/2603.22455) | 🔍 Retrieval & Routing | 2026 |
+| SRA-Bench | [Link](https://arxiv.org/abs/2604.24594) | 🔍 Retrieval & Routing | 2026 |
+| AgentSkillOS Benchmark | [Link](https://arxiv.org/abs/2603.02176) | 🔍 Retrieval & Routing | 2026 |
+| SkillTester | [Link](https://arxiv.org/abs/2603.28815) | 🛡️ Safety & Security | 2026 |
+| SkillGuardBench | [Link](https://arxiv.org/abs/2604.25109) | 🛡️ Safety & Security | 2026 |
+| SKILL-INJECT | [Link](https://arxiv.org/abs/2602.20156) | 🛡️ Safety & Security | 2026 |
+| SWE-Skills-Bench | [Link](https://arxiv.org/abs/2603.15401) | 💻 Software Engineering | 2026 |
+| WildClawBench | [Link](https://arxiv.org/abs/2605.10912) | 🌍 Real-world Environment | 2026 |
+| SkillForge | [Link](https://arxiv.org/abs/2604.08618) | 🌍 Real-world Environment | 2026 |
 
 ---
 
