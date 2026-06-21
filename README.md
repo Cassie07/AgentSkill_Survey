@@ -1,6 +1,6 @@
-# Agent Skill Evaluation and Evolution: Frameworks and Benchmarks
+# 🤖 Agent Skill Evaluation and Evolution: Frameworks and Benchmarks
 
-Paper link: [arXiv](https://arxiv.org/abs/2606.11435)
+📄 Paper link: [arXiv](https://arxiv.org/abs/2606.11435)
 
 The growth of agent skills has transformed how agentic systems are built, evaluated, and deployed. As skill libraries continue to scale, rigorous evaluation becomes critical to ensuring their utility, quality, and safety in real-world applications. Consequently, the field is undergoing an emerging paradigm shift from isolated skill creation to automated, evaluation-driven skill evolution. In this survey, we systematically examine the landscape of skill evolution and evaluation beyond foundational skill creation. We categorize evolution into four distinct paradigms, spanning execution feedback, trajectory distillation, compression, and reinforcement learning, showing how each element contributes to improving skill utility and reliability. We also provide an analysis of six skill-centric benchmark categories, identifying structural gaps in benchmark coverage, trade-offs, and metric richness to advance skill research. Finally, we identify open directions for building skill ecosystems that are generalizable, efficient, and verifiably safe.
 
@@ -16,7 +16,7 @@ This repository accompanies our survey on the lifecycle of **agent skills** for 
 
 ---
 
-## Skill Creation, Usage & Evolution
+## 🛠️ Skill Creation, Usage & Evolution
 
 This table covers the works discussed in the *skill definition & creation*, *skill usage* (retrieval, routing, management), and *skill evolution* sections.
 
@@ -52,7 +52,7 @@ This table covers the works discussed in the *skill definition & creation*, *ski
 
 ---
 
-## Skill-Centric Evaluation & Benchmarks
+## 📊 Skill-Centric Evaluation & Benchmarks
 
 This table covers the benchmarks discussed in the *skill-centric evaluation and benchmarks* section.
 
@@ -73,7 +73,7 @@ This table covers the benchmarks discussed in the *skill-centric evaluation and 
 
 ---
 
-## Table 3 — General-Domain Evaluation Benchmarks
+## 🌐 Table 3 — General-Domain Evaluation Benchmarks
 
 General-domain benchmarks that were not designed for skill evaluation but are still applicable to assessing agent skills, grouped by task category.
 
@@ -123,7 +123,7 @@ General-domain benchmarks that were not designed for skill evaluation but are st
 
 ---
 
-## Citation
+## 📝 Citation
 ```
 @misc{ding2026skillsurvey,
   title         = {Agent Skill Evaluation and Evolution: Frameworks and Benchmarks},
