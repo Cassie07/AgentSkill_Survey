@@ -6,6 +6,12 @@ The growth of agent skills has transformed how agentic systems are built, evalua
 
 This repository accompanies our survey on the lifecycle of **agent skills** for LLM agents — spanning skill **creation & usage**, **evolution**, and **evaluation**. Below, we provide an overview figure and curated reference tables for the works discussed in the survey.
 
+## 📋 Table of Contents
+- [🛠️ Skill Creation, Usage & Evolution](#️-skill-creation-usage--evolution)
+- [📊 Skill-Centric Evaluation & Benchmarks](#-skill-centric-evaluation--benchmarks)
+- [🌐 General-Domain Evaluation Benchmarks](#-table-3--general-domain-evaluation-benchmarks)
+- [📝 Citation](#-citation)
+
 
 
 <p align="center">
